@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 ### Timeline 🚶🏾
-<br />
+<br/>
 
 | Year               | Technology Progression                                    |     Job Progression                  |
 | ------------------ | --------------------------------------------------------- |--------------------------------------|
